@@ -26,4 +26,4 @@
 ![Coding Meme](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) *(Because why not?)*  
 
 ⭐ **My GitHub Stats:**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=alphingj&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
