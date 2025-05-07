@@ -23,7 +23,7 @@
 📫 **How to reach me?**  
 (You probably can’t… but if you *really* need to, try a **secret commit message** 😉)  
 
-(https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) 
+[!codingmeme](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) 
 
 *(Because why not?)*  
 
