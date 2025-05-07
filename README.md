@@ -23,7 +23,8 @@
 📫 **How to reach me?**  
 (You probably can’t… but if you *really* need to, try a **secret commit message** 😉)  
 
-![Coding Meme](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) *(Because why not?)*  
+(https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) 
 
-⭐ **My GitHub Stats:**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+*(Because why not?)*  
+
+
