@@ -8,14 +8,14 @@
 [![HTML](https://img.shields.io/badge/HTML-Creator-red?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 
 🔥 **Currently:**  
-- Building **high-performance** apps in **C++**  
+- Building **small-scale** apps in **C++**  
 - Crafting **interactive web experiences** with **JS & HTML**  
 - Leveling up my **Java** for backend mastery  
 
 🚀 **Projects & Goals:**  
-- 🔧 Working on a **custom game engine** in C++  
-- 🌐 Designing **dynamic web apps** with clean JS  
-- 🤖 Exploring **AI/ML integrations** in Java  
+ 
+- 🌐 Designing **web apps** with JS  
+- 🤖 Exploring **AI/ML integrations**  
 
 💡 **Fun Fact:**  
 > *"I optimize code like a chess player—thinking 10 moves ahead!"*  
