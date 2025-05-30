@@ -23,7 +23,7 @@
 > *"I automate Minecraft worlds but refuse to let AI automate my brain!"*  
 
 📫 **How to reach me?**  
-(Throw an `Ender Pearl` into your terminal—if it cracks the screen, I *might* respond.)  
+(Throw an `Ender Pearl` into your busty terminal if it cracks the screen, I *might* respond.)  
 
 
 
